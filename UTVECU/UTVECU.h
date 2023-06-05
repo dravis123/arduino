@@ -28,8 +28,9 @@
 #elif (HW_CURRENT_BOARD == HW_ARTEMIS_REDBOARD)
 #define KEY_PIN 6
 #define DIRECTION_PIN 7
-#define PWM_OUTPUT_MOTOR_L_PIN 3
-#define PWM_OUTPUT_MOTOR_R_PIN 4
+// FOR REDBOARD, USE 2nd column pin numbers for these!!!!!
+#define PWM_OUTPUT_MOTOR_L_PIN 4
+#define PWM_OUTPUT_MOTOR_R_PIN 22
 #define ANALOG_INPUT_THROTTLE A0
 
 #endif
