@@ -1,0 +1,6 @@
+{
+    "board": "SparkFun:apollo3:sfe_artemis",
+    "sketch": "UTVECU\\UTVECU.ino",
+    "port": "COM8",
+    "configuration": "svl_baud=460800,loader=option_svl"
+}
